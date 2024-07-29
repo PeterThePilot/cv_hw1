@@ -8,6 +8,7 @@ Readme file for the HW1 in computer vision in surgiacl application
 - `environment.yml` - Lists the dependencies needed to run the code and for easy conda env creation.
 - `predict.py` - Script to run predictions on a single image.
 - `video.py` - Script to run predictions on a video using OpenCV.
+- `best.pt` - the best model we were able to train
 
 ## Setup Instructions
 
